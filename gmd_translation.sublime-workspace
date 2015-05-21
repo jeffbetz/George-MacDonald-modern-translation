@@ -207,7 +207,7 @@
 			"file": "_all_gmd_books.txt",
 			"settings":
 			{
-				"buffer_size": 29375122,
+				"buffer_size": 29375529,
 				"line_ending": "Windows"
 			}
 		},
@@ -235,7 +235,7 @@
 			"file": "translation key from end of Donnal Grant",
 			"settings":
 			{
-				"buffer_size": 119063,
+				"buffer_size": 119068,
 				"line_ending": "Unix",
 				"name": "Word, Definition, Notes"
 			}
@@ -511,6 +511,38 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"disna",
+			"a' place",
+			"a'body",
+			"over",
+			"disna",
+			"a'body",
+			"gie",
+			"frae",
+			"an'",
+			"An'",
+			" wat ",
+			"wat",
+			"\neneuch.",
+			"\nbut yer",
+			" onybody\n",
+			" misdoobted ",
+			"misdoobted",
+			" jeedgment ",
+			" hadna ",
+			" ony ",
+			"ony",
+			" gien ",
+			" hert ",
+			" mair ",
+			"mair",
+			" mair ",
+			" Mair ",
+			" mair ",
+			" haein ",
+			"\ncam' ",
+			"\nCam' ",
+			"\ncam' ",
 			" wi' ",
 			" ower ",
 			"ower",
@@ -606,39 +638,7 @@
 			" till ",
 			" Till ",
 			" till ",
-			"atten't",
-			" maun ",
-			" hoose ",
-			" tane ",
-			" men' ",
-			" pooch ",
-			" an' a ",
-			" hemmer ",
-			" pit a ",
-			" jist ",
-			"bit boxie",
-			" fess ",
-			" Fess ",
-			" fess ",
-			" Fess ",
-			" fess ",
-			" ye ",
-			" whan ",
-			" mem,",
-			"Watty",
-			" an' that",
-			" feelin's ",
-			" leisur'\n",
-			" mysel'.",
-			" wad du ",
-			" naebody ",
-			" no to\nsay",
-			" to du,",
-			" to du ",
-			" adu ",
-			" 'at ",
-			" adu ",
-			" eneuch "
+			"atten't"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -646,6 +646,13 @@
 		"regex": false,
 		"replace_history":
 		[
+			"does not",
+			"all places",
+			"everybody",
+			"Scotland",
+			"match",
+			"disna",
+			"a'body",
 			"Rollvetica",
 			":",
 			"width",
@@ -668,7 +675,7 @@
 					"file": "_all_gmd_books.txt",
 					"settings":
 					{
-						"buffer_size": 29375122,
+						"buffer_size": 29375529,
 						"regions":
 						{
 							"bookmarks":
@@ -678,8 +685,8 @@
 								"regions":
 								[
 									[
-										9111822,
-										9111822
+										9111965,
+										9111965
 									]
 								],
 								"scope": "bookmarks"
@@ -688,8 +695,8 @@
 						"selection":
 						[
 							[
-								9111822,
-								9111822
+								9112266,
+								9112266
 							]
 						],
 						"settings":
@@ -702,7 +709,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3363790.0,
+						"translation.y": 3363550.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -780,15 +787,15 @@
 					"file": "translation key from end of Donnal Grant",
 					"settings":
 					{
-						"buffer_size": 119063,
+						"buffer_size": 119068,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								57969,
-								57973
+								8199,
+								8207
 							]
 						],
 						"settings":
@@ -803,7 +810,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 47770.0,
+						"translation.y": 5627.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
