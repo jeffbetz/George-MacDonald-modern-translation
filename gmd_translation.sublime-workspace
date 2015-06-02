@@ -207,7 +207,7 @@
 			"file": "_all_gmd_books.txt",
 			"settings":
 			{
-				"buffer_size": 29375529,
+				"buffer_size": 29375940,
 				"line_ending": "Windows"
 			}
 		},
@@ -511,6 +511,31 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"feck",
+			"wark",
+			" mak ",
+			"mak",
+			"feck",
+			" warl',",
+			"warl'",
+			"warl'\nhim t\n I ca",
+			"wulled",
+			" 'n ",
+			"'n",
+			"doo",
+			"hairmlessness",
+			"ane",
+			"wantit",
+			"Whaur",
+			"whaur",
+			"Gane",
+			"gane",
+			" gane ",
+			".\n",
+			"Noo",
+			"noo",
+			" maitter ",
+			" disna ",
 			"disna",
 			"a' place",
 			"a'body",
@@ -613,39 +638,26 @@
 			"Aih",
 			"aih",
 			"Aih",
-			"\"Aih!",
-			" tither.",
-			" weel's ",
-			"attened",
-			" attened ",
-			"attened ",
-			"\nattened ",
-			"attened",
-			"puckle",
-			" untill ",
-			" till ",
-			" Till ",
-			" till ",
-			" Till ",
-			" till ",
-			" Till ",
-			" till ",
-			" Till ",
-			" till ",
-			" Till ",
-			" till ",
-			" Till ",
-			" till ",
-			" Till ",
-			" till ",
-			"atten't"
+			"\"Aih!"
 		],
 		"highlight": true,
 		"in_selection": false,
-		"preserve_case": false,
+		"preserve_case": true,
 		"regex": false,
 		"replace_history":
 		[
+			"work",
+			"world",
+			"dove",
+			"harmlessness",
+			"one",
+			"wanted",
+			"Where",
+			"where",
+			"Gone",
+			"gone",
+			"Now",
+			"now",
 			"does not",
 			"all places",
 			"everybody",
@@ -661,7 +673,7 @@
 		"reverse": true,
 		"show_context": true,
 		"use_buffer2": true,
-		"whole_word": false,
+		"whole_word": true,
 		"wrap": true
 	},
 	"groups":
@@ -675,7 +687,7 @@
 					"file": "_all_gmd_books.txt",
 					"settings":
 					{
-						"buffer_size": 29375529,
+						"buffer_size": 29375940,
 						"regions":
 						{
 							"bookmarks":
@@ -685,8 +697,8 @@
 								"regions":
 								[
 									[
-										9111965,
-										9111965
+										9112108,
+										9112108
 									]
 								],
 								"scope": "bookmarks"
@@ -695,8 +707,8 @@
 						"selection":
 						[
 							[
-								9112266,
-								9112266
+								9111663,
+								9111663
 							]
 						],
 						"settings":
@@ -709,7 +721,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3363550.0,
+						"translation.y": 3363519.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -794,8 +806,8 @@
 						"selection":
 						[
 							[
-								8199,
-								8207
+								59439,
+								59439
 							]
 						],
 						"settings":
@@ -810,7 +822,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 5627.0,
+						"translation.y": 42588.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -846,7 +858,7 @@
 		"cols":
 		[
 			0.0,
-			0.682745393353,
+			0.636488107319,
 			1.0
 		],
 		"rows":
