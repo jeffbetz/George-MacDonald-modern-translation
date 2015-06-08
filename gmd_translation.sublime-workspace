@@ -207,8 +207,17 @@
 			"file": "_all_gmd_books.txt",
 			"settings":
 			{
-				"buffer_size": 29375940,
+				"buffer_size": 29383725,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Error connecting: [Errno 8] nodename nor servname provided, or not known",
+			"settings":
+			{
+				"buffer_size": 72,
+				"line_ending": "Unix",
+				"name": "http response"
 			}
 		},
 		{
@@ -238,6 +247,22 @@
 				"buffer_size": 119068,
 				"line_ending": "Unix",
 				"name": "Word, Definition, Notes"
+			}
+		},
+		{
+			"file": "/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+			"settings":
+			{
+				"buffer_size": 2518,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+			"settings":
+			{
+				"buffer_size": 29349,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -500,7 +525,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
 			""
@@ -511,6 +536,60 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"gin",
+			"Gude",
+			" wi'.",
+			"wi'",
+			"wi' ",
+			"wi'",
+			"wi't",
+			"wi'",
+			"wi'oot",
+			"wi's",
+			"wi't",
+			"wi'",
+			"acquant",
+			"you's",
+			"sic",
+			"clavers",
+			"ae",
+			"daur",
+			"gien",
+			"gien't",
+			"gien",
+			",\n",
+			"weel",
+			"weel's",
+			"weel",
+			"find",
+			"weel's",
+			"weel",
+			"ye",
+			"div",
+			"mairry",
+			"wad",
+			" ver' ",
+			"perswaud",
+			"indeed[aye]",
+			"\"An' ",
+			" an's ",
+			"an'",
+			"and",
+			"an'",
+			"An'rew",
+			"An'",
+			"richt",
+			"ye're",
+			"judgement",
+			"mouws",
+			"verra",
+			"alane",
+			"-Lat ",
+			"-lat ",
+			"lat",
+			"lat ower",
+			"lat",
+			"doos",
 			"feck",
 			"wark",
 			" mak ",
@@ -584,61 +663,7 @@
 			" to the fore ",
 			"to the fore",
 			" nor ",
-			" Nor ",
-			" nor ",
-			" Nor ",
-			" nor ",
-			"nor",
-			" nowther ",
-			"Na, no",
-			"na, no",
-			"Na, no",
-			" fore.",
-			"fore",
-			"\nlang's ",
-			" sittin' ",
-			" whaur yo",
-			" doon ",
-			" bien ",
-			"bien",
-			"Bien",
-			"bien",
-			" bien ",
-			" ken ",
-			" sud ",
-			" wha ",
-			"-an' ",
-			" sae ",
-			" sair,",
-			" 't.",
-			" sair ",
-			"sair",
-			"sair\naucht ",
-			"\naucht ",
-			"aucht",
-			" o'\n",
-			"o',of",
-			" an' ",
-			" An' ",
-			" an' ",
-			"an'",
-			" yoong,",
-			" upo' ",
-			" auld,",
-			" yoong!",
-			" taen ",
-			"taen",
-			"taken",
-			"Aih",
-			"\"Weel,",
-			"jist,just",
-			"taen",
-			"Aih",
-			"aih",
-			"Aih",
-			"aih",
-			"Aih",
-			"\"Aih!"
+			" Nor "
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -646,6 +671,40 @@
 		"regex": false,
 		"replace_history":
 		[
+			"with ",
+			"with",
+			"with it",
+			"without",
+			"with us",
+			"with his",
+			"with us",
+			"with it",
+			"acquainted",
+			"such",
+			"idle talk",
+			"chatter",
+			"one",
+			"dare",
+			"[if]",
+			"if it",
+			"well",
+			"well as",
+			"you",
+			"do",
+			"marry",
+			"would",
+			"persuade",
+			"and",
+			"Andrew",
+			"right",
+			"You're",
+			"judgment",
+			"very",
+			"alone",
+			"let",
+			"swallow",
+			"doves",
+			"value",
 			"work",
 			"world",
 			"dove",
@@ -687,7 +746,7 @@
 					"file": "_all_gmd_books.txt",
 					"settings":
 					{
-						"buffer_size": 29375940,
+						"buffer_size": 29383725,
 						"regions":
 						{
 							"bookmarks":
@@ -697,8 +756,8 @@
 								"regions":
 								[
 									[
-										9112108,
-										9112108
+										9115734,
+										9115734
 									]
 								],
 								"scope": "bookmarks"
@@ -707,27 +766,57 @@
 						"selection":
 						[
 							[
-								9111663,
-								9111663
+								9116723,
+								9116723
 							]
 						],
 						"settings":
 						{
 							"incomplete_sync": null,
 							"remote_loading": false,
+							"spell_check": true,
 							"synced": false,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"tab_size": 5,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3363519.0,
+						"translation.y": 3364440.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 72,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "list of words that aren't obvious what to translat",
 					"settings":
 					{
@@ -758,7 +847,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "README.md",
 					"settings":
 					{
@@ -795,7 +884,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "translation key from end of Donnal Grant",
 					"settings":
 					{
@@ -806,8 +895,8 @@
 						"selection":
 						[
 							[
-								59439,
-								59439
+								39390,
+								39394
 							]
 						],
 						"settings":
@@ -822,7 +911,67 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 42588.0,
+						"translation.y": 25487.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 2518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1462,
+								1462
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 29349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8886,
+								8886
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2975.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -858,7 +1007,7 @@
 		"cols":
 		[
 			0.0,
-			0.636488107319,
+			0.43595882887,
 			1.0
 		],
 		"rows":
