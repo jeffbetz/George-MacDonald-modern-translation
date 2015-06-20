@@ -207,7 +207,7 @@
 			"file": "_all_gmd_books.txt",
 			"settings":
 			{
-				"buffer_size": 29383725,
+				"buffer_size": 29396694,
 				"line_ending": "Windows"
 			}
 		},
@@ -244,7 +244,7 @@
 			"file": "translation key from end of Donnal Grant",
 			"settings":
 			{
-				"buffer_size": 119068,
+				"buffer_size": 155015,
 				"line_ending": "Unix",
 				"name": "Word, Definition, Notes"
 			}
@@ -525,7 +525,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 0.0,
 		"where_history":
 		[
 			""
@@ -536,6 +536,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			" 's, ",
+			" 's ",
+			" 's",
+			" 's,",
+			"'s,",
+			" 's,",
+			"'s",
+			"guide",
+			"Gude",
 			"gin",
 			"Gude",
 			" wi'.",
@@ -654,16 +663,7 @@
 			" wi' a' ",
 			" wri\nthat\n\"\n\n\"\n dee\nt, M\nr\nwa\nr me\n a w\ne th\ne _h\nher!\n a' \nhegi\n a'\n\nst a\nlift\nuch,\nes n\nthe \nthe \nldna\nn' y\nd a \ne.\"\n\n be \ne Ch\nnear\n yer\ny la\ne Sh\nr Go\nn, a\nfit\n\n?\"\n\n\nt ca\n\ncan\ne pe\nhe h\n the\nishe\n of\n\n cha\n a g\nken!\n gro\nyou\n\n be \n had\nMiss\na mu\n a'\n\nl be\nt Ma\n.\"\n\n\n to \nt be\nman,\never\na',",
 			" wri\nthat\n\"\n\n\"\n dee\nt, M\nr\nwa\nr me\n a w\ne th\ne _h\nher!\n a' \nhegi\n a'\n\nst a\nlift\nuch,\nes n\nthe \nthe \nldna\nn' y\nd a \ne.\"\n\n be \ne Ch\nnear\n yer\ny la\ne Sh\nr Go\nn, a\nfit\n\n?\"\n\n\nt ca\n\ncan\ne pe\nhe h\n the\nishe\n of\n\n cha\n a g\nken!\n gro\nyou\n\n be \n had\nMiss\na mu\n a'\n\nl be\nt Ma\n.\"\n\n\n to \nt be\nman,\never\n a' ",
-			" cratur ",
-			"\nsae sair.",
-			"to the fore",
-			"To the fore",
-			"to the fore",
-			" to the fore.",
-			" to the fore ",
-			"to the fore",
-			" nor ",
-			" Nor "
+			" cratur "
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -671,6 +671,10 @@
 		"regex": false,
 		"replace_history":
 		[
+			" [us/his/as/is/has], ",
+			" [us/his/as/is/has] ",
+			"treat",
+			"good",
 			"with ",
 			"with",
 			"with it",
@@ -746,7 +750,7 @@
 					"file": "_all_gmd_books.txt",
 					"settings":
 					{
-						"buffer_size": 29383725,
+						"buffer_size": 29396694,
 						"regions":
 						{
 							"bookmarks":
@@ -756,8 +760,8 @@
 								"regions":
 								[
 									[
-										9115734,
-										9115734
+										9118425,
+										9118425
 									]
 								],
 								"scope": "bookmarks"
@@ -766,8 +770,8 @@
 						"selection":
 						[
 							[
-								9116723,
-								9116723
+								9118423,
+								9118423
 							]
 						],
 						"settings":
@@ -781,7 +785,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3364440.0,
+						"translation.y": 3363762.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -888,15 +892,15 @@
 					"file": "translation key from end of Donnal Grant",
 					"settings":
 					{
-						"buffer_size": 119068,
+						"buffer_size": 155015,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								39390,
-								39394
+								145084,
+								145082
 							]
 						],
 						"settings":
@@ -911,7 +915,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 25487.0,
+						"translation.y": 99012.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1007,7 +1011,7 @@
 		"cols":
 		[
 			0.0,
-			0.43595882887,
+			0.574047479044,
 			1.0
 		],
 		"rows":
