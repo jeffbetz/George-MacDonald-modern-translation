@@ -207,62 +207,8 @@
 			"file": "_all_gmd_books.txt",
 			"settings":
 			{
-				"buffer_size": 29396694,
+				"buffer_size": 29387877,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "Error connecting: [Errno 8] nodename nor servname provided, or not known",
-			"settings":
-			{
-				"buffer_size": 72,
-				"line_ending": "Unix",
-				"name": "http response"
-			}
-		},
-		{
-			"contents": "list of words that aren't obvious what to translate to:\n\n adu = to do\n \n",
-			"file": "list of words that aren't obvious what to translat",
-			"file_size": 58,
-			"file_write_time": 1430761882000000,
-			"settings":
-			{
-				"buffer_size": 72,
-				"line_ending": "Unix",
-				"name": "list of words that aren't obvious what to translat"
-			}
-		},
-		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 720,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "translation key from end of Donnal Grant",
-			"settings":
-			{
-				"buffer_size": 155015,
-				"line_ending": "Unix",
-				"name": "Word, Definition, Notes"
-			}
-		},
-		{
-			"file": "/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
-			"settings":
-			{
-				"buffer_size": 2518,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
-			"settings":
-			{
-				"buffer_size": 29349,
-				"line_ending": "Unix"
 			}
 		}
 	],
@@ -406,7 +352,6 @@
 	},
 	"file_history":
 	[
-		"/Users/jbetz/clients/Jeff/gmd_translate_github/George-MacDonald-modern-translation/_all_gmd_books.txt",
 		"/Users/jbetz/clients/ascedia/ascedia-website-2015/ascedia-vehicles/animate_vehicles/ascedia_vehicles/scripts/jquery-bigtext.js",
 		"/Users/jbetz/clients/ascedia/ascedia-website-2015/ascedia-vehicles/animate_vehicles/ascedia_vehicles/main.scss",
 		"/Users/jbetz/clients/ascedia/ascedia-website-2015/ascedia-vehicles/animate_vehicles/ascedia_vehicles/main.css",
@@ -536,199 +481,141 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"gar",
-			" 's, ",
-			" 's ",
+			"$right-margin-text",
+			"day",
+			"day =",
+			"scaleAll",
+			":scale",
+			";",
+			"symbolName",
+			"carsMovingLeft",
+			"carsMovingLeftCopy3",
+			"eid24",
+			"eid23",
+			"carsMovingRightAnimation",
+			":scale",
+			"scale",
+			"500ms",
+			"1s",
+			"scaleHeight",
+			"0.5",
+			"1",
+			"scale",
+			"1",
+			"0.5",
+			"1",
+			"0.5",
+			"1",
+			"2",
+			"stop-opacity:7.173948e-02",
+			"1",
+			"css",
+			"hide",
+			"_testingMode",
+			"globalReset",
+			"calculateDayNightGraphicVariations",
+			"weatherLoadedDeferred",
+			"repeat:1",
+			"-1",
+			"1",
+			"gaslight",
+			"boxHolder_TL",
+			"mainGasLight",
+			"gasLightTimeLine",
+			"flashLightTimeLine",
+			"no sae",
+			"No sae",
+			"no sae",
+			" ta ",
+			"leddy",
 			" 's",
-			" 's,",
-			"'s,",
-			" 's,",
 			"'s",
-			"guide",
-			"Gude",
-			"gin",
-			"Gude",
-			" wi'.",
-			"wi'",
-			"wi' ",
-			"wi'",
-			"wi't",
-			"wi'",
-			"wi'oot",
-			"wi's",
-			"wi't",
-			"wi'",
-			"acquant",
-			"you's",
-			"sic",
-			"clavers",
-			"ae",
-			"daur",
-			"gien",
-			"gien't",
-			"gien",
-			",\n",
-			"weel",
-			"weel's",
-			"weel",
-			"find",
-			"weel's",
-			"weel",
-			"ye",
-			"div",
-			"mairry",
-			"wad",
-			" ver' ",
-			"perswaud",
-			"indeed[aye]",
-			"\"An' ",
-			" an's ",
-			"an'",
-			"and",
-			"an'",
-			"An'rew",
+			"taen",
+			" o' ",
+			" ken ",
+			"eneuch",
+			"'Deed",
 			"An'",
+			"richt ",
 			"richt",
-			"ye're",
-			"judgement",
-			"mouws",
-			"verra",
-			"alane",
-			"-Lat ",
-			"-lat ",
-			"lat",
-			"lat ower",
-			"lat",
-			"doos",
-			"feck",
-			"wark",
-			" mak ",
-			"mak",
-			"feck",
-			" warl',",
-			"warl'",
-			"warl'\nhim t\n I ca",
-			"wulled",
-			" 'n ",
-			"'n",
-			"doo",
-			"hairmlessness",
-			"ane",
-			"wantit",
-			"Whaur",
-			"whaur",
-			"Gane",
-			"gane",
-			" gane ",
-			".\n",
-			"Noo",
-			"noo",
-			" maitter ",
-			" disna ",
-			"disna",
-			"a' place",
-			"a'body",
-			"over",
-			"disna",
-			"a'body",
-			"gie",
-			"frae",
-			"an'",
-			"An'",
-			" wat ",
-			"wat",
-			"\neneuch.",
-			"\nbut yer",
-			" onybody\n",
-			" misdoobted ",
-			"misdoobted",
-			" jeedgment ",
-			" hadna ",
-			" ony ",
-			"ony",
-			" gien ",
-			" hert ",
-			" mair ",
-			"mair",
-			" mair ",
-			" Mair ",
-			" mair ",
-			" haein ",
-			"\ncam' ",
-			"\nCam' ",
-			"\ncam' ",
-			" wi' ",
-			" ower ",
-			"ower",
-			" wheen ",
-			" wi' a' ",
-			" wri\nthat\n\"\n\n\"\n dee\nt, M\nr\nwa\nr me\n a w\ne th\ne _h\nher!\n a' \nhegi\n a'\n\nst a\nlift\nuch,\nes n\nthe \nthe \nldna\nn' y\nd a \ne.\"\n\n be \ne Ch\nnear\n yer\ny la\ne Sh\nr Go\nn, a\nfit\n\n?\"\n\n\nt ca\n\ncan\ne pe\nhe h\n the\nishe\n of\n\n cha\n a g\nken!\n gro\nyou\n\n be \n had\nMiss\na mu\n a'\n\nl be\nt Ma\n.\"\n\n\n to \nt be\nman,\never\na',",
-			" wri\nthat\n\"\n\n\"\n dee\nt, M\nr\nwa\nr me\n a w\ne th\ne _h\nher!\n a' \nhegi\n a'\n\nst a\nlift\nuch,\nes n\nthe \nthe \nldna\nn' y\nd a \ne.\"\n\n be \ne Ch\nnear\n yer\ny la\ne Sh\nr Go\nn, a\nfit\n\n?\"\n\n\nt ca\n\ncan\ne pe\nhe h\n the\nishe\n of\n\n cha\n a g\nken!\n gro\nyou\n\n be \n had\nMiss\na mu\n a'\n\nl be\nt Ma\n.\"\n\n\n to \nt be\nman,\never\n a' "
+			"Ye're",
+			"Twa ",
+			"n yer cl",
+			" pit ",
+			" jist ",
+			" whan ",
+			" ye ",
+			"ye",
+			"TimelineMax",
+			"TweenMax",
+			"gasLightColorNightElementStopFill",
+			"myGasLightNight",
+			"svgGasLightNightLoadedDeferred",
+			"_lightningInterval",
+			"myRandomNumber",
+			"logoColor",
+			"svgBubbleLoadedDeferred",
+			"setTimeout",
+			"updateTime",
+			"TweenMax.fromTo",
+			"$",
+			"stage",
+			"bullet",
+			"-----------------------------------------------------------------------------------------",
+			"file:///Users/jbetz/Downloads/sesinilawsite_backup_1420012880.zip%20Folder/",
+			"-----------------------------------------------------------------------------------------",
+			"file:///Users/jbetz/clients/no-regrets-mens-ministries/style-tile/exports/",
+			"\"><source type=\"video/mp4\" src=\"\"></video>",
+			"<video video-display=\"\" h264=\"",
+			"-",
+			".png",
+			"file:///Users/jbetz/clients/foodmood/foodmood-app-project/config/ios/resources/splash/",
+			".png",
+			"file:///Users/jbetz/clients/foodmood/foodmood-app-project/config/ios/resources/icons/",
+			"5:30",
+			":00",
+			"clickTag",
+			"file:///Users/jbetz/clients/markel/bike_and_event_ads/active.com/flash_src",
+			"office",
+			"•          ",
+			"11:",
+			"10:",
+			"mark",
+			"reading",
+			"Food",
+			"office",
+			"Schlitterbahn",
+			"reading",
+			"conversations",
+			"wrap",
+			"\n-----------------------------------------------------------------------------------------",
+			"-----------------------------------------------------------------------------------------",
+			"markel",
+			"Markel",
+			"markel",
+			"Markel",
+			"markel",
+			"Markel",
+			"entering",
+			"ajbombers",
+			"OFF",
+			"\n",
+			"s",
+			"a",
+			"\n",
+			"msk",
+			"ftp://mskadve@ftpblue.ascedia.com",
+			"/",
+			"\n-----------------------------------------------------------------------------------------",
+			"-----------------------------------------------------------------------------------------\n",
+			"roll"
 		],
 		"highlight": true,
 		"in_selection": false,
-		"preserve_case": true,
+		"preserve_case": false,
 		"regex": false,
 		"replace_history":
 		[
-			"cause",
-			" [us/his/as/is/has], ",
-			" [us/his/as/is/has] ",
-			"treat",
-			"good",
-			"with ",
-			"with",
-			"with it",
-			"without",
-			"with us",
-			"with his",
-			"with us",
-			"with it",
-			"acquainted",
-			"such",
-			"idle talk",
-			"chatter",
-			"one",
-			"dare",
-			"[if]",
-			"if it",
-			"well",
-			"well as",
-			"you",
-			"do",
-			"marry",
-			"would",
-			"persuade",
-			"and",
-			"Andrew",
-			"right",
-			"You're",
-			"judgment",
-			"very",
-			"alone",
-			"let",
-			"swallow",
-			"doves",
-			"value",
-			"work",
-			"world",
-			"dove",
-			"harmlessness",
-			"one",
-			"wanted",
-			"Where",
-			"where",
-			"Gone",
-			"gone",
-			"Now",
-			"now",
-			"does not",
-			"all places",
-			"everybody",
-			"Scotland",
-			"match",
-			"disna",
-			"a'body",
 			"Rollvetica",
 			":",
 			"width",
@@ -737,7 +624,7 @@
 		"reverse": true,
 		"show_context": true,
 		"use_buffer2": true,
-		"whole_word": true,
+		"whole_word": false,
 		"wrap": true
 	},
 	"groups":
@@ -751,130 +638,25 @@
 					"file": "_all_gmd_books.txt",
 					"settings":
 					{
-						"buffer_size": 29396694,
+						"buffer_size": 29387877,
 						"regions":
 						{
-							"bookmarks":
-							{
-								"flags": 144,
-								"icon": "bookmark",
-								"regions":
-								[
-									[
-										9118425,
-										9118425
-									]
-								],
-								"scope": "bookmarks"
-							}
 						},
 						"selection":
 						[
 							[
-								9118425,
-								9118425
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"incomplete_sync": null,
 							"remote_loading": false,
-							"spell_check": true,
 							"synced": false,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"tab_size": 5,
 							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 4293996.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"settings":
-					{
-						"buffer_size": 72,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								72,
-								72
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"is_xml": false,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "list of words that aren't obvious what to translat",
-					"settings":
-					{
-						"buffer_size": 72,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								71,
-								71
-							]
-						],
-						"settings":
-						{
-							"auto_name": "list of words that aren't obvious what to translat",
-							"incomplete_sync": null,
-							"is_xml": false,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "README.md",
-					"settings":
-					{
-						"buffer_size": 720,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								481,
-								481
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"incomplete_sync": null,
-							"is_xml": false,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -885,102 +667,8 @@
 			]
 		},
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 4,
-					"file": "translation key from end of Donnal Grant",
-					"settings":
-					{
-						"buffer_size": 155015,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								80688,
-								80693
-							]
-						],
-						"settings":
-						{
-							"auto_name": "Word, Definition, Notes",
-							"incomplete_sync": null,
-							"is_xml": false,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 52256.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
-					"settings":
-					{
-						"buffer_size": 2518,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1462,
-								1462
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
-					"settings":
-					{
-						"buffer_size": 29349,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								8886,
-								8886
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 2975.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1012,7 +700,7 @@
 		"cols":
 		[
 			0.0,
-			0.574047479044,
+			0.855165985059,
 			1.0
 		],
 		"rows":
@@ -1098,7 +786,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 264.0,
 	"status_bar_visible": true
 }
