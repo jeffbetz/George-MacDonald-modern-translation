@@ -536,6 +536,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"gar",
 			" 's, ",
 			" 's ",
 			" 's",
@@ -662,8 +663,7 @@
 			" wheen ",
 			" wi' a' ",
 			" wri\nthat\n\"\n\n\"\n dee\nt, M\nr\nwa\nr me\n a w\ne th\ne _h\nher!\n a' \nhegi\n a'\n\nst a\nlift\nuch,\nes n\nthe \nthe \nldna\nn' y\nd a \ne.\"\n\n be \ne Ch\nnear\n yer\ny la\ne Sh\nr Go\nn, a\nfit\n\n?\"\n\n\nt ca\n\ncan\ne pe\nhe h\n the\nishe\n of\n\n cha\n a g\nken!\n gro\nyou\n\n be \n had\nMiss\na mu\n a'\n\nl be\nt Ma\n.\"\n\n\n to \nt be\nman,\never\na',",
-			" wri\nthat\n\"\n\n\"\n dee\nt, M\nr\nwa\nr me\n a w\ne th\ne _h\nher!\n a' \nhegi\n a'\n\nst a\nlift\nuch,\nes n\nthe \nthe \nldna\nn' y\nd a \ne.\"\n\n be \ne Ch\nnear\n yer\ny la\ne Sh\nr Go\nn, a\nfit\n\n?\"\n\n\nt ca\n\ncan\ne pe\nhe h\n the\nishe\n of\n\n cha\n a g\nken!\n gro\nyou\n\n be \n had\nMiss\na mu\n a'\n\nl be\nt Ma\n.\"\n\n\n to \nt be\nman,\never\n a' ",
-			" cratur "
+			" wri\nthat\n\"\n\n\"\n dee\nt, M\nr\nwa\nr me\n a w\ne th\ne _h\nher!\n a' \nhegi\n a'\n\nst a\nlift\nuch,\nes n\nthe \nthe \nldna\nn' y\nd a \ne.\"\n\n be \ne Ch\nnear\n yer\ny la\ne Sh\nr Go\nn, a\nfit\n\n?\"\n\n\nt ca\n\ncan\ne pe\nhe h\n the\nishe\n of\n\n cha\n a g\nken!\n gro\nyou\n\n be \n had\nMiss\na mu\n a'\n\nl be\nt Ma\n.\"\n\n\n to \nt be\nman,\never\n a' "
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -671,6 +671,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"cause",
 			" [us/his/as/is/has], ",
 			" [us/his/as/is/has] ",
 			"treat",
@@ -770,8 +771,8 @@
 						"selection":
 						[
 							[
-								9118423,
-								9118423
+								9118425,
+								9118425
 							]
 						],
 						"settings":
@@ -785,7 +786,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3363762.0,
+						"translation.y": 4293996.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -899,8 +900,8 @@
 						"selection":
 						[
 							[
-								145084,
-								145082
+								80688,
+								80693
 							]
 						],
 						"settings":
@@ -915,7 +916,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 99012.0,
+						"translation.y": 52256.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
