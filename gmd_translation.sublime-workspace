@@ -207,7 +207,7 @@
 			"file": "_all_gmd_books.txt",
 			"settings":
 			{
-				"buffer_size": 29383725,
+				"buffer_size": 29396700,
 				"line_ending": "Windows"
 			}
 		},
@@ -241,37 +241,33 @@
 			}
 		},
 		{
+			"file": "_all_gmd_books_untranslated.txt",
+			"settings":
+			{
+				"buffer_size": 29387210,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "translation key from end of Donnal Grant",
 			"settings":
 			{
-				"buffer_size": 119068,
+				"buffer_size": 155015,
 				"line_ending": "Unix",
 				"name": "Word, Definition, Notes"
-			}
-		},
-		{
-			"file": "/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
-			"settings":
-			{
-				"buffer_size": 2518,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
-			"settings":
-			{
-				"buffer_size": 29349,
-				"line_ending": "Unix"
 			}
 		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 87.0,
 		"selected_items":
 		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
 			[
 				"past",
 				"Text Pastry: From 1 To X"
@@ -369,10 +365,6 @@
 				"Package Control: List Packages"
 			],
 			[
-				"instal",
-				"Package Control: Install Package"
-			],
-			[
 				"z",
 				"Set Syntax: ZenCoding"
 			],
@@ -389,7 +381,7 @@
 				"Snippet: box-shadow"
 			]
 		],
-		"width": 593.0
+		"width": 564.0
 	},
 	"console":
 	{
@@ -406,6 +398,8 @@
 	},
 	"file_history":
 	[
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/jbetz/clients/Jeff/gmd_translate_github/George-MacDonald-modern-translation/_all_gmd_books.txt",
 		"/Users/jbetz/clients/ascedia/ascedia-website-2015/ascedia-vehicles/animate_vehicles/ascedia_vehicles/scripts/jquery-bigtext.js",
 		"/Users/jbetz/clients/ascedia/ascedia-website-2015/ascedia-vehicles/animate_vehicles/ascedia_vehicles/main.scss",
@@ -418,7 +412,6 @@
 		"/Users/jbetz/clients/markel/bike_and_event_ads/active.com/flash_src/clickTag/markel-active-bike-300x250.html",
 		"/Users/jbetz/clients/dartboard/notes/dart board meeting-notes030414.txt",
 		"/Users/jbetz/Desktop/onMonday",
-		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
 		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/jbetz/clients/roll/website_2013/exports/handoff/css/rollSiteHandoff.css",
 		"/Users/jbetz/clients/markel/bike_and_event_ads/active.com/flash_src/markel-active-300x250.html",
@@ -466,7 +459,6 @@
 		"/Users/jbetz/clients/jeff/testproject/jquery.js",
 		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Nettuts+ Fetch/package-metadata.json",
 		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Inline Calculator/README.md",
-		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Inline Calculator/Default (OSX).sublime-keymap",
 		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Inc-Dec-Value/README.md",
 		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/User/mymacros/hours_copy.sublime-macro",
@@ -525,7 +517,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 0.0,
 		"where_history":
 		[
 			""
@@ -536,6 +528,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Produced by Jonathan Ingram, Sandra Brown, and Project\nGutenberg Distributed Proofreader",
+			"\n\n\n\n\n\n",
+			"\n\n\n\n\n\n\n\n\n\n",
+			"*** START OF",
+			"*** START OF MALCOLM ***\n*** START OF",
+			"\n*** START OF",
+			"malcom",
 			"gin",
 			"Gude",
 			" wi'.",
@@ -656,14 +655,7 @@
 			" wri\nthat\n\"\n\n\"\n dee\nt, M\nr\nwa\nr me\n a w\ne th\ne _h\nher!\n a' \nhegi\n a'\n\nst a\nlift\nuch,\nes n\nthe \nthe \nldna\nn' y\nd a \ne.\"\n\n be \ne Ch\nnear\n yer\ny la\ne Sh\nr Go\nn, a\nfit\n\n?\"\n\n\nt ca\n\ncan\ne pe\nhe h\n the\nishe\n of\n\n cha\n a g\nken!\n gro\nyou\n\n be \n had\nMiss\na mu\n a'\n\nl be\nt Ma\n.\"\n\n\n to \nt be\nman,\never\n a' ",
 			" cratur ",
 			"\nsae sair.",
-			"to the fore",
-			"To the fore",
-			"to the fore",
-			" to the fore.",
-			" to the fore ",
-			"to the fore",
-			" nor ",
-			" Nor "
+			"to the fore"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -732,7 +724,7 @@
 		"reverse": true,
 		"show_context": true,
 		"use_buffer2": true,
-		"whole_word": true,
+		"whole_word": false,
 		"wrap": true
 	},
 	"groups":
@@ -746,7 +738,7 @@
 					"file": "_all_gmd_books.txt",
 					"settings":
 					{
-						"buffer_size": 29383725,
+						"buffer_size": 29396700,
 						"regions":
 						{
 							"bookmarks":
@@ -756,8 +748,8 @@
 								"regions":
 								[
 									[
-										9115734,
-										9115734
+										9115051,
+										9115064
 									]
 								],
 								"scope": "bookmarks"
@@ -766,8 +758,8 @@
 						"selection":
 						[
 							[
-								9116723,
-								9116723
+								132952,
+								132952
 							]
 						],
 						"settings":
@@ -781,7 +773,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3364440.0,
+						"translation.y": 64974.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -885,18 +877,49 @@
 			[
 				{
 					"buffer": 4,
-					"file": "translation key from end of Donnal Grant",
+					"file": "_all_gmd_books_untranslated.txt",
 					"settings":
 					{
-						"buffer_size": 119068,
+						"buffer_size": 29387210,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								39390,
-								39394
+								112044,
+								112044
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 5,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 54796.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "translation key from end of Donnal Grant",
+					"settings":
+					{
+						"buffer_size": 155015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -911,67 +934,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 25487.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
-					"settings":
-					{
-						"buffer_size": 2518,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1462,
-								1462
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
-					"settings":
-					{
-						"buffer_size": 29349,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								8886,
-								8886
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 2975.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1007,7 +970,7 @@
 		"cols":
 		[
 			0.0,
-			0.43595882887,
+			0.504799841838,
 			1.0
 		],
 		"rows":
@@ -1093,7 +1056,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 264.0,
 	"status_bar_visible": true
 }
